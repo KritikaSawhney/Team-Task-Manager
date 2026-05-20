@@ -3,8 +3,8 @@
 A full-stack project management application with **role-based access control**, Kanban boards, and a real-time dashboard.
 
 ## 🚀 Live Demo
-- **Frontend**: [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
-- **Backend API**: [https://your-railway-url.railway.app](https://your-railway-url.railway.app)
+- **Frontend**: [https://team-task-manager-one-snowy.vercel.app](https://team-task-manager-one-snowy.vercel.app)
+- **Backend API**: [https://team-task-manager-jhcj.onrender.com](https://team-task-manager-jhcj.onrender.com)
 
 ## ✨ Features
 
@@ -23,9 +23,9 @@ A full-stack project management application with **role-based access control**, 
 
 **Frontend**: React + Vite, React Router, Axios, react-hot-toast  
 **Backend**: Node.js + Express  
-**Database**: PostgreSQL (Railway)  
+**Database**: PostgreSQL (Neon.tech)  
 **Auth**: JWT + bcryptjs  
-**Deployment**: Railway (backend + DB) + Vercel (frontend)
+**Deployment**: Render (Backend) + Vercel (Frontend)
 
 ## 📂 Project Structure
 ```
